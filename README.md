@@ -4,4 +4,4 @@
 
 <p>I mostly code well with HTML, CSS, PHP, JavaScript, Python, Java, and SQL</p> 
 
-<p?Follow my <a href="https://www.youtube.com/@JackOSTheDimensionLeader>YouTube</a>!</p>
+<p>Follow my <a href="https://www.youtube.com/@JackOSTheDimensionLeader>YouTube</a>!</p>
