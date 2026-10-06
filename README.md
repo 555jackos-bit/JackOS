@@ -4,4 +4,4 @@
 
 <p>I mostly code well with HTML, CSS, PHP, JavaScript, Python, Java, and SQL</p> 
 
-<p>Follow my <a href="https://www.youtube.com/@JackOSTheDimensionLeader">YouTube</a> </p>
+<p>Follow my <a href="https://www.youtube.com/@JackOSTheDimensionLeader">YouTube</a>, <a href="https://warpcam.xyz/profile.php?user=JackOS">WarpCam</a>, <a href="https://www.kamtape.com/profile?user=JackOS555">KamTape</a>, <a href="https://pamview.xyz/profile?user=JackOSOfficial">PamView</a>, <a href="https://www.youview.lol/profile?user=JackOS">YouView</a>, and <a href="https://bananaclanwiki.com/youtubeforpublic/profile.php?user=JackOS">SkTtTube</a>, </p>
