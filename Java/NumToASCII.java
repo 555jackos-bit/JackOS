@@ -14,7 +14,7 @@ public class NumToASCII {
             if (asciiNum < 32 || asciiNum > 127) {
                 System.out.println("Invalid Number!! Please try again");
             } else if (asciiNum == 32) {
-                System.out.println("YOur number is " + asciiNum + ", which is a space");
+                System.out.println("Your number is " + asciiNum + ", which is a space");
                 break;
             } else {
                 convertToASCII(asciiNum);
