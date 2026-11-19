@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ASCII {
+public class NumToASCII {
     // Global Variable
     static int asciiNum = 0;
 
@@ -11,7 +11,6 @@ public class ASCII {
         do {
             System.out.print("Type any number between 32 and 127: ");
             asciiNum = keyboard.nextInt();
-          // Rules in case user breaks them
             if (asciiNum < 32 || asciiNum > 127) {
                 System.out.println("Invalid Number!! Please try again");
             } else if (asciiNum == 32) {
@@ -26,7 +25,7 @@ public class ASCII {
 
         keyboard.close();
     }
-    // Method to convert number to character
+
     public static int convertToASCII(int asciiNum) {
         char symbol = (char) asciiNum;
         System.out.println("Your number is " + asciiNum + ", which is " + symbol);
