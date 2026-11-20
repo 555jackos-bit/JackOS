@@ -7,11 +7,11 @@ public class NumToASCII {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
 
-        // Asking user to input number between 32 and 127
+        // Asking user to input number between 32 and 126
         do {
-            System.out.print("Type any number between 32 and 127: ");
+            System.out.print("Type any number between 32 and 126: ");
             asciiNum = keyboard.nextInt();
-            if (asciiNum < 32 || asciiNum > 127) {
+            if (asciiNum < 32 || asciiNum > 126) {
                 System.out.println("Invalid Number!! Please try again");
             } else if (asciiNum == 32) {
                 System.out.println("Your number is " + asciiNum + ", which is a space");
@@ -19,7 +19,7 @@ public class NumToASCII {
             } else {
                 convertToASCII(asciiNum);
             }
-        } while (asciiNum < 32 || asciiNum > 127);
+        } while (asciiNum < 32 || asciiNum > 126);
 
         System.out.print("Program terminated normally");
 
